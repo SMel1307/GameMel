@@ -21,8 +21,8 @@ import {
         const personaInfo = doc.data();
   
        personaContenido.innerHTML += `
-       <link rel="stylesheet" type="text/css" href="/login/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-         <link rel="stylesheet" href="/css/tabla.css">
+       <link rel="stylesheet" type="text/css" href="login/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+         <link rel="stylesheet" href="css/tabla.css">
        <div class="site-wrap">
        <table align="center" border='1' id="customers">
            <thead>
